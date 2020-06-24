@@ -1,7 +1,6 @@
 # Budget-App-Project
 
-This is calculate your budget income and expenses.You can show easilly how much your income and how much you expenses with percentage in every expenses.Also you can
-simply remove income or expenses
+This is calculate your budget that is income and expenses. You can show easilly how much your income and how much you expenses with percentage in every expenses. Also you can simply remove income or expenses.
 
 Image 1:(Initial Screen)
 ![](output/1_intitial_Screen.png)
